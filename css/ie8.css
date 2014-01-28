@@ -1,0 +1,23 @@
+body {
+	margin-top: 4em;
+}
+img {
+	max-width: 100%;
+}
+#slideshow {
+	display: none;
+}
+
+.chromeframe {
+	background-color: #ed6d04;
+	color: #333;
+	padding: 1em;
+	font-size: 1.2em;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+.chromeframe a {
+	color: #000;
+}
